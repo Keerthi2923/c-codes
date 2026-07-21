@@ -15,8 +15,5 @@ void main()
         printf("Armstrong Number");
     else
         printf("Not an Armstrong Number");
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> f1e30f4eabd2c2e6234f5663298748d28d010f30
+
